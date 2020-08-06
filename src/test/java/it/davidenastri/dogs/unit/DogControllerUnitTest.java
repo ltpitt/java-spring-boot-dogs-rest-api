@@ -19,7 +19,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 @RunWith(SpringRunner.class)
 @WebMvcTest(DogController.class)
-public class DocControllerUnitTest {
+public class DogControllerUnitTest {
 
     @MockBean
     DogService dogService;
