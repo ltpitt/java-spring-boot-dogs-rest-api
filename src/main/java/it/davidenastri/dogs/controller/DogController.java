@@ -20,7 +20,7 @@ public class DogController {
         this.dogService = dogService;
     }
 
-    @GetMapping("/dogs")
+    @GetMapping(value = "/dogs", produces = "application/json; charset=utf-8")
     public ResponseEntity<List<Dog>> getAllDogs() {
         List<Dog> list = dogService.retrieveDogs();
         return new ResponseEntity<>(list, HttpStatus.OK);
