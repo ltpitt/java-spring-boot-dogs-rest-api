@@ -1,6 +1,6 @@
-[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-boot-dogs-microservice-eureka)](https://github.com/ltpitt/java-spring-boot-dogs-microservice-eureka/issues)
-![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-microservice-eureka)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-microservice-eureka?foo=bar)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-boot-dogs-rest-api)](https://github.com/ltpitt/java-spring-boot-dogs-rest-api/issues)
+![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-boot-dogs-rest-api)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-boot-dogs-rest-api?foo=bar)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
